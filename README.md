@@ -31,3 +31,6 @@ Send `Authorization: Bearer <token>` for protected endpoints. List tasks support
 3. Run `git push -u origin main` and authenticate when prompted.
 4. For a feature branch: `git switch -c feature/example`, commit changes, `git push -u origin feature/example`.
 5. Open GitHub's displayed “Compare & pull request” link, select `main` as the base, and create the PR. GitHub then provides the exact PR URL.
+
+## Version
+Initial TaskMaster API release.
